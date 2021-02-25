@@ -15,7 +15,7 @@ h = s.count('h')
 #     if i=='h':
 #         h+=1
 
-print("r的个数：",r)
-print("f的个数：",f)
+print("r的个数：", r)
+print("f的个数：", f)
 print("s的个数：",s2)
 print("h的个数：",h)
